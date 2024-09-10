@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="801px" height="502px" viewBox="0 0 801 502" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 5logo192</title>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#BBD5FA" offset="0%"></stop>
+            <stop stop-color="#85ABF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#FABBBB" offset="0%"></stop>
+            <stop stop-color="#F28585" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#BBD5FA" offset="0%"></stop>
+            <stop stop-color="#85ABF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FABBBB" offset="0%"></stop>
+            <stop stop-color="#F28585" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#BBD5FA" offset="0%"></stop>
+            <stop stop-color="#85ABF2" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#FABBBB" offset="0%"></stop>
+            <stop stop-color="#F28585" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-117, -32)">
+            <g id="编组-5" transform="translate(117.1506, 32.91)">
+                <g id="编组">
+                    <rect id="矩形备份-10" fill="#D8D8D8" opacity="0.48281715" x="0" y="14.6399345" width="800" height="60.8837971"></rect>
+                    <rect id="矩形备份-11" fill="url(#linearGradient-1)" x="0" y="14.6399345" width="300" height="50"></rect>
+                    <rect id="矩形备份-12" fill="url(#linearGradient-2)" x="501.432079" y="14.6399345" width="299" height="50"></rect>
+                    <circle id="椭圆形备份-8" stroke="#979797" fill="#5085E8" cx="298.371522" cy="40.0900164" r="39.5"></circle>
+                    <circle id="椭圆形备份-9" stroke="#979797" fill="#EC6363" cx="501.530278" cy="40" r="39.5"></circle>
+                </g>
+                <g id="编组-4" transform="translate(0, 420.09)">
+                    <rect id="矩形备份-14" fill="#D8D8D8" opacity="0.48281715" x="0" y="14.6399345" width="800" height="60.8837971"></rect>
+                    <rect id="矩形备份-15" fill="url(#linearGradient-1)" x="0" y="14.6399345" width="300" height="50"></rect>
+                    <rect id="矩形备份-16" fill="url(#linearGradient-2)" x="501.432079" y="14.6399345" width="299" height="50"></rect>
+                    <circle id="椭圆形备份-10" stroke="#979797" fill="#5085E8" cx="298.371522" cy="40.0900164" r="39.5"></circle>
+                    <circle id="椭圆形备份-11" stroke="#979797" fill="#EC6363" cx="501.530278" cy="40" r="39.5"></circle>
+                </g>
+                <g id="编组-3" transform="translate(0, 280.09)">
+                    <rect id="矩形备份-17" fill="#D8D8D8" opacity="0.48281715" x="0" y="14.6399345" width="800" height="60.8837971"></rect>
+                    <rect id="矩形备份-18" fill="url(#linearGradient-3)" x="0" y="14.6399345" width="401" height="50"></rect>
+                    <rect id="矩形备份-19" fill="url(#linearGradient-4)" x="599.432079" y="14.6399345" width="201" height="50"></rect>
+                    <circle id="椭圆形备份-12" stroke="#979797" fill="#5085E8" cx="400.371522" cy="40.0900164" r="39.5"></circle>
+                    <circle id="椭圆形备份-13" stroke="#979797" fill="#EC6363" cx="599.530278" cy="40" r="39.5"></circle>
+                </g>
+                <g id="编组-2" transform="translate(0, 140.09)">
+                    <rect id="矩形备份-20" fill="#D8D8D8" opacity="0.48281715" x="0" y="14.6399345" width="800" height="60.8837971"></rect>
+                    <rect id="矩形备份-21" fill="url(#linearGradient-5)" x="0" y="14.6399345" width="200" height="50"></rect>
+                    <rect id="矩形备份-22" fill="url(#linearGradient-6)" x="400.432079" y="14.6399345" width="400" height="50"></rect>
+                    <circle id="椭圆形备份-14" stroke="#979797" fill="#5085E8" cx="199.371522" cy="40.0900164" r="39.5"></circle>
+                    <circle id="椭圆形备份-15" stroke="#979797" fill="#EC6363" cx="400.530278" cy="40" r="39.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
