@@ -40,7 +40,7 @@ const App = () => {
 
   return (
     <Box sx={{ maxWidth: 600, margin: 'auto', p: 2 }}>
-      <Typography variant="h4" gutterBottom>学习准备应用</Typography>
+      <Typography variant="h4" gutterBottom>学习准备(爱你靖靖，靖靖一起加油)</Typography>
       <LinearProgress variant="determinate" value={progress} sx={{ mb: 2 }} />
       <Card>
         <CardHeader title={steps[currentStep].name} />
